@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "inkcat78@gmail.com",
+                "Name": "Haxolotl"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "EnabledByDefault": true,
+        "Id": "Cat",
+        "License": "GPLv3",
+        "Name": "Cat",
+        "Version": "1"
+    }
+}
